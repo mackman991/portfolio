@@ -43,10 +43,6 @@ Diagnostic analysis of NHS appointment data across 42 Integrated Care Boards (20
 - Scenario modelling on DNA rates; recommendations on regional resource allocation and workforce planning
 - `Python` `Tableau` `pandas`
 
-### [ETF Holdings Extractor](https://github.com/mackman991/portfolio/tree/master/FMP)
-Production-grade Python tooling for investment research: ISIN → ticker resolution, historical holdings by portfolio date, sector/industry enrichment via batched API calls.
-- `Python` `REST APIs` `Financial Modeling Prep`
-
 ---
 
 ## Skills

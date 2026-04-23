@@ -3,9 +3,11 @@
 *.key
 *.pem
 
-# Client / portfolio data (sensitive – keep local only)
-FMP/*.xlsx
-FMP/*.csv
+# Excluded folders and files
+FMP/
+Peter_Mackin_CV.docx
+Peter_Mackin_CV_v2.docx
+build_cv_v2.py
 
 # Large media files
 *.mp4
