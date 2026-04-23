@@ -60,7 +60,7 @@ Diagnostic analysis of NHS appointment data across 42 Integrated Care Boards (20
 - **PMCL Consulting** — Senior Investment Associate (2025–present)
 - **TTG Spinnaker** — Proprietary Trader, discretionary macro/event-driven (2021–2024)
 - **Stanhope Capital** — Investment Analyst/Associate, £4bn AUM (2017–2020)
-- **LSE** — Data Analytics Career Accelerator, Distinction (2024)
+- **LSE** — Data Analytics Career Accelerator, Distinction (2025)
 - **CFA** Level I & II · CFA Performance Attribution Certificate · IMC
 
 ---
