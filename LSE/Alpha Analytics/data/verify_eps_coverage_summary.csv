@@ -1,7 +1,0 @@
-source,bucket,count
-both,n_matched,9754
-eps_only,n_only_in_surprises,0
-calendar_only,n_only_in_calendar,4828
-calendar_time,time_bmo,10803
-calendar_time,time_amc,3473
-calendar_time,time_unknown,306

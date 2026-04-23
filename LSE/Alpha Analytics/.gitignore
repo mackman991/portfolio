@@ -3,7 +3,8 @@
 .env.*
 !.env.example
 
-# Data (included for portfolio visibility)
+# Data (generated outputs — reproduce by running src/)
+data/
 *.parquet
 
 # Python
