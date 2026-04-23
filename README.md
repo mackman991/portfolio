@@ -6,7 +6,7 @@ Data analytics and quantitative finance projects, combining investment domain kn
 
 ## Projects
 
-### [Alpha Analytics](LSE/Alpha%20Analytics/)
+### [Alpha Analytics](Projects/Alpha%20Analytics/)
 End-to-end quantitative research pipeline across the S&P 100 — earnings event study, systematic trading strategies with technical regime filters, and realistic portfolio simulation.
 
 - **2,234 earnings events** across S&P 100 constituents, 2020–2025
@@ -15,7 +15,7 @@ End-to-end quantitative research pipeline across the S&P 100 — earnings event 
 - Modular Python package with Streamlit dashboard, regime-filter grid and live monitoring module
 - `Python` `pandas` `statsmodels` `scikit-learn` `Streamlit` `yfinance` `FMP API` `SEC EDGAR`
 
-### [Customer Analytics & Predictive Modelling — Turtle Games](LSE/Turtle%20Games/)
+### [Customer Analytics & Predictive Modelling — Turtle Games](Projects/Turtle%20Games/)
 Regression, customer segmentation and NLP sentiment analysis on 2,000 customer records.
 
 - Decision tree regression: **R² = 0.96** predicting loyalty points
@@ -23,7 +23,7 @@ Regression, customer segmentation and NLP sentiment analysis on 2,000 customer r
 - VADER sentiment analysis on product reviews
 - `Python` `R` `scikit-learn` `NLTK`
 
-### [NHS Capacity & Resource Utilisation](LSE/NHS/)
+### [NHS Capacity & Resource Utilisation](Projects/NHS/)
 Diagnostic analysis of NHS appointment data across 42 Integrated Care Boards (2020–2022).
 
 - Daily appointment guideline breached on **175 of 334 days**

@@ -18,7 +18,7 @@ Currently designing and deploying LLM-powered agent systems using the Claude API
 
 ## Featured projects
 
-### [Alpha Analytics — Earnings Event Study & Trading Strategies](https://github.com/mackman991/portfolio/tree/master/LSE/Alpha%20Analytics)
+### [Alpha Analytics — Earnings Event Study & Trading Strategies](https://github.com/mackman991/portfolio/tree/master/Projects/Alpha%20Analytics)
 End-to-end quantitative research pipeline testing whether earnings events, macro factors and technical regime filters can generate systematic trading edge across the S&P 100.
 
 - **Universe:** S&P 100 · 2,234 earnings events · 2020–2025
@@ -28,7 +28,7 @@ End-to-end quantitative research pipeline testing whether earnings events, macro
 - Repackaged from notebook into a modular Python package with Streamlit dashboard, regime-filter grid, position-sizing simulator and live monitoring module
 - `Python` `pandas` `statsmodels` `scikit-learn` `Streamlit` `yfinance` `FMP API` `SEC EDGAR`
 
-### [Customer Analytics & Predictive Modelling — Turtle Games](https://github.com/mackman991/portfolio/tree/master/LSE/Turtle%20Games)
+### [Customer Analytics & Predictive Modelling — Turtle Games](https://github.com/mackman991/portfolio/tree/master/Projects/Turtle%20Games)
 Regression, clustering and NLP on 2,000 customer records to identify loyalty drivers and segment the customer base.
 
 - Decision tree regression: **R² = 0.96** predicting loyalty points from income and spending score
@@ -36,7 +36,7 @@ Regression, clustering and NLP on 2,000 customer records to identify loyalty dri
 - VADER sentiment analysis on product reviews
 - `Python` `R` `scikit-learn` `NLTK` `k-means`
 
-### [NHS Capacity & Resource Utilisation](https://github.com/mackman991/portfolio/tree/master/LSE/NHS)
+### [NHS Capacity & Resource Utilisation](https://github.com/mackman991/portfolio/tree/master/Projects/NHS)
 Diagnostic analysis of NHS appointment data across 42 Integrated Care Boards (2020–2022).
 
 - 1.2m daily appointment guideline breached on **175 of 334 days** analysed
