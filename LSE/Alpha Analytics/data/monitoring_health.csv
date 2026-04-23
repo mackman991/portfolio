@@ -1,0 +1,2 @@
+generated_at,indicators_last_date,indicators_rows,calendar_match_rate,calendar_match_rate_ok,sec_match_rate,sec_match_rate_ok,sec_exact_match_rate,amc_mean_delta_ret,amc_delta_in_band
+2026-04-17T13:45:42.899202+00:00,2026-04-16,130362,1.0,True,0.9649122807017544,True,0.9649122807017544,-0.0019466401825012983,True

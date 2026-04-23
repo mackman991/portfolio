@@ -1,0 +1,28 @@
+# Credentials and secrets
+.env
+*.key
+*.pem
+
+# Client / portfolio data (sensitive – keep local only)
+FMP/*.xlsx
+FMP/*.csv
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Word lock/temp files
+~$*
+~WRL*.tmp
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
